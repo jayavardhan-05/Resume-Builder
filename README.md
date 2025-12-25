@@ -6,7 +6,7 @@ Create and download beautiful, ATS-friendly resumes in minutes. ResumeGenius is 
 
 ### 🚀 **Live Demos**
 
-*   **Landing Page:** [**https://jayavardhan-05.github.io/RESUME-BUILDER/**](https://arifmohammad30.github.io/RESUME-BUILDER/)
+*   **Landing Page:** [**https://jayavardhan-05.github.io/RESUME-BUILDER/**](https://resumegenious.netlify.app/)
 *   **Builder Application:** [**https://resumegenious.netlify.app/**](https://resumegenious.netlify.app/)
 
 ---
