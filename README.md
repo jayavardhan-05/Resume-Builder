@@ -6,7 +6,7 @@ Create and download beautiful, ATS-friendly resumes in minutes. ResumeGenius is 
 
 ### 🚀 **Live Demos**
 
-*   **Landing Page:** [**https://arifmohammad30.github.io/RESUME-BUILDER/**](https://arifmohammad30.github.io/RESUME-BUILDER/)
+*   **Landing Page:** [**https://jayavardhan-05.github.io/RESUME-BUILDER/**](https://arifmohammad30.github.io/RESUME-BUILDER/)
 *   **Builder Application:** [**https://resumegenious.netlify.app/**](https://resumegenious.netlify.app/)
 
 ---
@@ -166,4 +166,5 @@ The landing page will be available at a different port (e.g., `http://localhost:
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ---
+
 
